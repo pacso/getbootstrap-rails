@@ -3,6 +3,8 @@ Twitter Bootstrap 4, for Rails
 
 The content of this gem was mostly copied from the excellent [bootstrap-sass](https://github.com/twbs/bootstrap-sass) gem, but with JS/CSS swapped out for Bootstrap 4.
 
+**!!! Please Note:** This project was created due to lack of Bootstrap 4 availability through the [officially supported gem](https://github.com/twbs/bootstrap-sass). I expect at some point Bootstrap 4 will be available through the official gem, at which time this gem will be obsolete.
+
 ## Installation
 
 ### Ruby on Rails
